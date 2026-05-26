@@ -19,4 +19,8 @@ public class Conexao {
             throw new SQLException("Driver MySQL nao encontrado: " + e.getMessage());
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 24f01402c9cd41677100957650088234ca2d52cb
