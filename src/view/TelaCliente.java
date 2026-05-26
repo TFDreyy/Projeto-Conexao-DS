@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package view;
 
 import javax.swing.*;
@@ -178,3 +179,15 @@ public class TelaCliente extends JFrame {
         new TelaCliente().setVisible(true);
     }
 }
+=======
+package view;
+
+public class TelaCliente {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+>>>>>>> 05452295166f2c53f857e3177209130b3283363c
